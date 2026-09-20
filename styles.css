@@ -1,0 +1,73 @@
+body,html{
+	background-color:white;
+	margin: 0;
+}
+.avatar{
+	width: 100%;
+	height: auto;
+}
+.img1{
+	width: 100%;
+	height: auto;
+}
+.img2{
+    width: 70%;
+    height: auto;
+    border-radius: 20px;
+    margin: 0px;
+}
+.button{
+	display:inline-block;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	margin: 0px;
+	padding: 5px 20px;
+	transition: 0.3s;
+	cursor: pointer;
+	border-radius: 100px;
+}
+.button:hover{
+	background-color: blacks;
+	color: red;
+}
+
+h2{
+	font-weight: normal;
+	font-size: 50px;
+	display: inline-block;
+	padding: 5px 30px;
+	margin: 0px;
+	font-family: "Roboto", cursive;
+}
+h1{
+	font-family: "oswald", cursive;
+	font-size: 65px;
+	margin: 0px;
+}
+h3{
+	text-align: justify;
+	width: 70%;
+	margin: 0px;
+	font-size: 35px;
+	font-family: "oswald", cursive;
+}
+h4{
+    width: 70%;
+    margin: 0px;
+    font-family: "Roboto", cursive;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: justify;
+}
+h5{
+	max-height: auto;
+	width: 70%;
+	background-image: url(hinh/trắng.jpg);
+	display: block;
+	text-align: center;
+	font-size: 50px;
+	border: 1px solid black;
+	border-radius: 50px;}
+
