@@ -1,6 +1,8 @@
 body,html{
 	background-color:white;
 	margin: 0;
+	max-width: auto;
+	width: 768px;
 }
 .avatar{
 	width: 100%;
