@@ -74,9 +74,16 @@ h5{
 
 @media (max-width: 1024px) {
     h3, h4, h5, .img2 { max-width: 85%; }
+    h1 { font-size: 2.2rem; }
+    h2 { font-size: 1.6rem; }
 }
 @media (max-width: 600px) {
-    h1 { font-size: 2rem; }
-    h3, h4, h5, .img2 { max-width: 90%; }
-    html, body { overflow-x: hidden; }
-}
+    h1 {
+        font-size: 1.8rem; 
+        text-align: center;
+    }
+    
+    h2 {
+        font-size: 1.4rem;
+        text-align: center;
+    }
